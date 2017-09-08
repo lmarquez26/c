@@ -19,7 +19,7 @@ int main(int argc, const char * argv[])
     printf("Escribe tu mes de nacimiento: ");
     scanf("%d",&mes);
     printf("dia %d del mes %d\n",dia,mes);
-    
+    printf("Identificando el signo zodiacal");
     
     if( mes>=1 && mes<=12 ){
         
